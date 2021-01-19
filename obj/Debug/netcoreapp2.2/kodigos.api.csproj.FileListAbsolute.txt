@@ -1,0 +1,14 @@
+C:\Users\Andrei\kodigos\kodigos.api\bin\Debug\netcoreapp2.2\kodigos.api.deps.json
+C:\Users\Andrei\kodigos\kodigos.api\bin\Debug\netcoreapp2.2\kodigos.api.runtimeconfig.json
+C:\Users\Andrei\kodigos\kodigos.api\bin\Debug\netcoreapp2.2\kodigos.api.runtimeconfig.dev.json
+C:\Users\Andrei\kodigos\kodigos.api\bin\Debug\netcoreapp2.2\kodigos.api.dll
+C:\Users\Andrei\kodigos\kodigos.api\bin\Debug\netcoreapp2.2\kodigos.api.pdb
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.csprojAssemblyReference.cache
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.RazorAssemblyInfo.cache
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.RazorAssemblyInfo.cs
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.AssemblyInfoInputs.cache
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.AssemblyInfo.cs
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.RazorTargetAssemblyInfo.cache
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.dll
+C:\Users\Andrei\kodigos\kodigos.api\obj\Debug\netcoreapp2.2\kodigos.api.pdb
